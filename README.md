@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Stack
-![banner2](https://user-images.githubusercontent.com/66239860/147467137-8831faca-dd5a-4ebe-9692-f5be35f8fb9d.png)
+![banner2](https://user-images.githubusercontent.com/66239860/147467335-e8a44b76-e2c0-47af-b742-bd310b5921e0.png)
