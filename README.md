@@ -1,4 +1,5 @@
-### Hi there ![portfolio3](https://user-images.githubusercontent.com/66239860/147465941-473b39a2-44d9-44ea-9ee6-54da3a6a9f5c.jpg)
+### Hi there !
+![Screenshot (1)](https://user-images.githubusercontent.com/66239860/147466297-1b1ce4af-d412-42b9-883b-3d1671f140af.png)
 
 <!--
 **Rufo138/Rufo138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
